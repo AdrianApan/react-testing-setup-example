@@ -1,6 +1,6 @@
 ### React testing setup example
 
-Companion repository for the topic covered in the ["React testing setup example"](https://adrianapan.com/blog/react-testing-setup-example) blog post.
+Companion repository for the topic covered in the ["React testing setup example"](https://adrianapan.com/blog/testing-a-modern-react-app) blog post.
 
 #### Stack:
 

@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "semi": [
+      "error",
+      "never",
+      {
+        "beforeStatementContinuationChars": "never"
+      }
+    ],
+    "no-param-reassign": [
+      "warn",
+      {
+        "props": false
+      }
+    ]
+  }
+}
